@@ -1,6 +1,6 @@
-# 🐍 Proyecto | Facturas
+# 🐍 Proyecto | Gestion TI
 
-Este proyecto consiste en la gestión(formateo) de las diferentes facturas emitidas por proveedores para su correspondiente envío por correo electronico. 
+Este proyecto consiste en la gestión(TI) de los diferentes departamentos y el personal
 
 
 ### Uso
